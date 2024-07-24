@@ -1,6 +1,6 @@
 # Hi, I'm Russell Pérez (B4sal)
 
-👋 Welcome to my GitHub profile. I'm a frontend developer passionate about programming and technology, though I also have backend experience, albeit less recently.
+👋 Welcome to my GitHub profile. I'm a frontend developer passionate about programming and technology, though I also have backend experience, and I work with Assembly language as well, albeit less frequently.
 
 ## 🛠️ Technologies and Tools
 
@@ -20,6 +20,7 @@ Here are some of the technologies I enjoy working with:
 - Bootstrap
 - Bulma
 - Firebase
+- Assembly
 
 Recently, I’ve started working with **Svelte** and **Angular**.
 
