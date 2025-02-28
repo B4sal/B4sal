@@ -1,44 +1,30 @@
-# Hi, I'm Russell Pérez (B4sal) 👋
+Hi, I'm Russell Pérez (B4sal) 👋
+Welcome to my GitHub profile! I'm a cybersecurity enthusiast passionate about defensive security, ethical hacking, and system protection. While I have experience in development (frontend & backend), my main focus now is cybersecurity, especially in Blue Team operations.
 
-Welcome to my GitHub profile! I'm a **frontend developer** passionate about programming and technology. I also have experience in **backend development** and occasionally work with **Assembly language**.
+🛠️ Technologies and Tools
+Here are some of the technologies I work with:
 
-## 🛠️ Technologies and Tools
+Cybersecurity & Defense: Threat detection, incident response, system hardening, heuristic analysis
+Pentesting & Security Tools: Vulnerability assessment, forensic analysis, log monitoring
+Programming Languages: Python, Go, Java, JavaScript, PHP, Assembly
+Web & Databases: PostgreSQL, MySQL, Firebase, HTML, CSS, Svelte, Angular, ThreeJS
+Frameworks & Libraries: Bootstrap, Bulma, Jasmine
+🔐 Cybersecurity Focus (Blue Team)
+My passion is securing systems and protecting organizations from cyber threats. My main areas of expertise include:
 
-Here are some of the technologies I enjoy working with:
+Threat detection & incident response – Monitoring, analyzing, and mitigating cyber threats
+System integrity & hardening – Strengthening security measures to prevent breaches
+Heuristic analysis & forensic investigation – Identifying malicious activities and responding effectively
+I strive to enhance digital security, defend against cyber threats, and ensure compliance with best practices.
 
-- **Programming & Web Development**: JavaScript, ThreeJS, Svelte, Angular, HTML, CSS, PHP, Java, Python, Go  
-- **Databases**: PostgreSQL, MySQL, Firebase  
-- **Frameworks & Libraries**: Bootstrap, Bulma, Jasmine  
-- **Low-Level Programming**: Assembly  
+🎓 Education
+I’m currently studying Systems Engineering at the Instituto Tecnológico de Mérida.
 
-## 🔐 Cybersecurity Focus
+📩 Communication
+I’m always open to networking, collaborating, and learning within the cybersecurity and ethical hacking community.
+I don’t have a specific contact method, but feel free to reach out through GitHub!
 
-Beyond development, **cybersecurity** is my main area of interest. I’m focused on:
 
-- **Pentesting** to identify and mitigate security vulnerabilities  
-- **Heuristic analysis** for threat detection and prevention  
-- **System integrity assurance** to protect organizations from cyber threats  
 
-I aim to leverage my skills to defend systems, ensure compliance, and enhance security in the digital landscape.
-
-## 🎓 Education
-
-I’m currently studying **Systems Engineering** at the **Instituto Tecnológico de Mérida**.
-
-## 🎯 Professional Goal
-
-My goal is to contribute to **open-source projects**, collaborate on **cybersecurity initiatives**, and share knowledge with the community. I'm always open to new opportunities and collaborations!
-
-## � Hobbies and Interests
-
-- I love playing **Fortnite**.  
-- I’m a big fan of **One Piece**.  
-- I enjoy any technology-related activities, especially those related to **cybersecurity** and **ethical hacking**.
-
-## 📩 Communication
-
-I don’t have a specific communication channel, but I’m always open to interacting and collaborating within the development and cybersecurity community.
-
-## 💡 Motto
-
-> *"Is there anything more valuable than your dreams?"* – Luffy
+💡 Motto
+"Is there anything more valuable than your dreams?" – Luffy
