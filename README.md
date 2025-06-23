@@ -6,12 +6,6 @@ Welcome to my GitHub profile! I'm a **cybersecurity enthusiast** passionate abou
 
 ---
 
-## 🎓 Education
-
-I’m currently studying **Systems Engineering** at the **Instituto Tecnológico de Mérida**.
-
----
-
 ## 🛠️ Skills & Technologies
 
 <div align="left">
